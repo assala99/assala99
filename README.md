@@ -1,126 +1,147 @@
-<h2>Hi, I'm Assala! 👋</h2>
+<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+# 🌷 Hi, I'm Assala
 
-<p>
-  <em>
-    🎓 Engineering Student in Computer Science & Digital Development<br>
-    💻 Interested in Web Development, Artificial Intelligence & Data<br>
-    🌍 Aspiring Software Engineer with an international mindset
-  </em>
-</p>
+### `Engineering Student` · `Web Developer` · `AI & Data Enthusiast`
 
-<p>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-</p>
+*building things, learning every day & turning ideas into projects ✨*
+
+<br>
+
+<a href="https://github.com/TON_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-9B8FA8?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/TON_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-B8A9C9?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 👩‍💻 A little more about me...
+## 🌸 About me
 
-```javascript
-const assala = {
-  education: "Engineering Student in Computer Science",
+Hi! I'm **Assala**, an engineering student passionate about **software development, artificial intelligence and data**.
 
-  interests: [
-    "Web Development",
-    "Artificial Intelligence",
-    "Data",
-    "Software Engineering"
-  ],
+I enjoy creating applications that solve real-world problems, exploring new technologies and learning through hands-on projects.
 
-  languages: [
-    "Java",
-    "Python",
-    "JavaScript",
-    "PHP",
-    "HTML",
-    "CSS",
-    "SQL"
-  ],
+Currently, I'm focusing on:
 
-  frameworks: [
-    "React",
-    "Spring Boot",
-    "Django",
-    "Laravel",
-    "Node.js"
-  ],
-
-  databases: [
-    "MySQL",
-    "PostgreSQL"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Docker"
-  ],
-
-  currentlyLearning: [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Data Science",
-    "Advanced Web Development"
-  ],
-
-  projects: [
-    "AI & Machine Learning Desktop Application",
-    "Project Management Web Application",
-    "Automatic Timetable Generation System",
-    "Vehicle Rental Management Application"
-  ],
-
-  goal: "Become a skilled software engineer and build useful technology solutions"
-}
-```
-
-### 🚀 What I work with
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,react,spring,django,laravel,nodejs,mysql,postgres,docker,git,github,vscode" />
-
-</p>
-
-### 📌 Featured Projects
-
-🔹 **AI & Machine Learning Application**
-A desktop application developed with Python and Tkinter, integrating several machine learning techniques such as Linear Regression, K-Means, Random Forest, Time Series, Neural Networks and Cross-Validation.
-
-🔹 **Project Management Web Application**
-A Django-based web application for managing projects, users, competencies and availability, with role-based access.
-
-🔹 **Automatic Timetable Generation**
-A software project focused on generating university timetables while considering different hard and soft constraints.
-
-🔹 **Vehicle Rental Management System**
-A web solution designed to centralize and automate vehicle rental operations, including vehicles, agencies, reservations, contracts, clients and technical/financial tracking.
-
-### 🌱 Currently learning
-
+* 🌐 Web & Software Development
 * 🤖 Artificial Intelligence & Machine Learning
 * 📊 Data & Data Science
-* 🌐 Modern Web Development
-* ☁️ Software architecture and backend development
-* 🔐 Computer networks and cybersecurity concepts
+* 🧩 Backend Development
+* 🌱 Building real-world projects
 
-### 💡 My interests
+---
 
-I'm interested in building applications that solve real-world problems and in continuously improving my technical skills through projects and practical experience.
+## 🧁 Tech I use
 
-I also enjoy discovering new technologies, working on challenging projects and learning from other developers.
+<div align="center">
 
-### 🤝 Let's connect!
+### Languages
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,sql" />
 
-<em><b>I love connecting with people and learning from different experiences.</b>
-If you'd like to connect, collaborate or talk about technology, feel free to reach out! 😊</em>
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,spring,django,laravel,nodejs" />
+
+### Tools & Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,vscode" />
+
+</div>
+
+---
+
+## 🎀 My projects
+
+### 🤖 AI & Machine Learning Application
+
+A desktop application developed with **Python & Tkinter**, bringing together several machine learning techniques:
+
+`Linear Regression` · `K-Means` · `Random Forest` · `Time Series` · `Neural Networks` · `Cross-Validation`
+
+<div align="center">
+
+[🌷 **View Project →**](TON_AI_PROJECT_LINK)
+
+</div>
+
+---
+
+### 📋 Project Management Application
+
+A web application developed with **Django** for managing projects, users, competencies and availability, with different user roles.
+
+`Python` · `Django` · `MySQL` · `HTML` · `CSS`
+
+<div align="center">
+
+[🌷 **View Project →**](TON_DJANGO_PROJECT_LINK)
+
+</div>
+
+---
+
+### 📅 Automatic Timetable Generator
+
+A software project focused on generating university timetables while respecting different **hard and soft constraints**.
+
+`Java` · `Spring Boot` · `React` · `MySQL`
+
+<div align="center">
+
+[🌷 **View Project →**](TON_TIMETABLE_PROJECT_LINK)
+
+</div>
+
+---
+
+### 🚗 Vehicle Rental Management System
+
+A web solution designed to **centralize and automate vehicle rental operations**, including vehicles, agencies, reservations, contracts and clients.
+
+`Odoo` · `Python` · `PostgreSQL`
+
+<div align="center">
+
+[🌷 **View Project →**](TON_VEHICLE_PROJECT_LINK)
+
+</div>
+
+---
+
+## 🌱 Currently learning
+
+```text
+Artificial Intelligence     █████████░  90%
+Web Development             █████████░  90%
+Backend Development         ████████░░  80%
+Machine Learning            ███████░░░  70%
+Data Science                ██████░░░░  60%
+```
+
+---
+
+## 💌 Let's connect
+
+<div align="center">
+
+I'm always happy to connect with people who love technology, learning and creating new things.
+
+<br>
+
+**Have a project idea or just want to talk?**
+
+<a href="https://www.linkedin.com/in/TON_LINKEDIN/">
+  ✿ Let's connect on LinkedIn ✿
+</a>
+
+<br><br>
+
+*Made with ☕, curiosity & a little bit of ✨*
+
+</div>
