@@ -66,7 +66,7 @@ A desktop application developed with **Python & Tkinter**, bringing together sev
 
 <div align="center">
 
-[🌷 **View Project →**](TON_AI_PROJECT_LINK)
+[🌷 **View Project →**](https://github.com/assala99/-AI-Machine-Learning-Application)
 
 </div>
 
