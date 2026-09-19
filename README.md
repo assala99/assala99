@@ -2,7 +2,7 @@
 
 # 🌷 Hi, I'm Assala
 
-### `Engineering Student` · `Web Developer` · `AI & Data Enthusiast`
+### `Engineering Student` 
 
 *building things, learning every day & turning ideas into projects ✨*
 
