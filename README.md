@@ -80,7 +80,7 @@ A web application developed with **Django** for managing projects, users, compet
 
 <div align="center">
 
-[🌷 **View Project →**]((https://github.com/assala99/gestions_projets))
+[🌷 **View Project →**](https://github.com/assala99/gestions_projets)
 
 </div>
 
