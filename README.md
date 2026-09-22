@@ -22,7 +22,7 @@
 
 ## 🌸 About me
 
-Hi! I'm **Assala**, an engineering student passionate about **software development, artificial intelligence and data**.
+Hi! I'm **Assala**, an engineering student passionate about **software development**.
 
 I enjoy creating applications that solve real-world problems, exploring new technologies and learning through hands-on projects.
 
