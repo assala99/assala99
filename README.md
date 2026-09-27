@@ -94,7 +94,7 @@ A software project focused on generating university timetables while respecting 
 
 <div align="center">
 
-[🌷 **View Project →**](TON_TIMETABLE_PROJECT_LINK)
+[🌷 **View Project →**](https://github.com/assala99/automaticTabletimer).
 
 </div>
 
